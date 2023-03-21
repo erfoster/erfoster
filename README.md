@@ -1,6 +1,43 @@
-### Hi there 👋
+# Elisabeth Foster, MAIA
+## Data Analytics Student, Global Governance, Politics, and Security at American University 
+
+### I am currently taking my first R class, and I am interested in learning more about coding. 
+
+### Skills: 
+
+- Statistics:
+  - Descriptive analysis
+  - Regression 
+  
+- Software:
+  - R/R studio
+  - SPSS
+  - STATA 
+  - git 
+  - Google Sheets
+  - Excel 
+ 
+- Data Visualization: 
+  - `ggplot`
+  - patchwork 
+  - scales
+  - `knittr`
+  
+- Data Wrangling:
+  - Reshaping
+  - Merging
+ 
+
 
 <!--
+
+
+```
+can put code in here and it looks like code on the other side
+```
+
+### Hi there 👋 
+
 **erfoster/erfoster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
