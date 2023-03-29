@@ -21,7 +21,7 @@
   - `ggplot`
   - patchwork 
   - scales
-  - `knittr`
+  - `knitr`
   
 - Data Wrangling:
   - Reshaping
