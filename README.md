@@ -1,7 +1,7 @@
 # Elisabeth Foster, MAIA
 ## Data Analysis and Global Peace and Security focus at American University 
 
-### I am graduating in early May, and looking to bring my analysis, data, and analytical research skills to the field of global peace and security. 
+### I am a Spring 2023 graduate looking to bring my research, data, and analysis skills to the field of global peace and security. 
 
 ### Skills: 
 
